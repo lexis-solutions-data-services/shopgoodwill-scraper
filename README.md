@@ -7,7 +7,7 @@
 | Stat | Value |
 |------|-------|
 | **Version** | `0.0.5` |
-| **Last Update** | Nov 30, 2025 |
+| **Last Update** | Dec 1, 2025 |
 
 ---
 
@@ -18,6 +18,23 @@ Our auction Scraper will enable you to quickly get all auctions details from <ht
 When you provide the URL of an item or a page from Goodwill or Goodwill Digital you will be able to extract such information about the auctions:
 
 For a full list of fields extracted, please see the _Output_ tab.
+
+
+## 💻 Integration Examples
+
+This repository includes example code showing how to integrate the `shopgoodwill-scraper` actor into your projects.
+
+You can find example implementations in the [`examples/`](./examples) folder:
+- **TypeScript/JavaScript**: See [`examples/typescript/`](./examples/typescript) for a complete TypeScript example
+- **Python**: See [`examples/python/`](./examples/python) for a complete Python example
+
+Each example includes:
+- Ready-to-use code templates
+- Setup instructions
+- Documentation links
+
+---
+
 
 ## How many results can you get with Goodwill auction Scraper?
 
